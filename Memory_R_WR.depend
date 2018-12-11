@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544477656 source:d:\cpp_code\memory_r_wr\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Process_Class.h"
+
+1544476070 d:\cpp_code\memory_r_wr\include\process_class.h
+	<windows.h>
+
+1544476012 source:d:\cpp_code\memory_r_wr\src\process_class.cpp
+	"Process_Class.h"
+	<iostream>
+	<windows.h>
+
